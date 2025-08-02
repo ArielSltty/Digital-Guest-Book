@@ -11,13 +11,13 @@
 
 ---
 
-## 📌 About the Project
+## 📌 About the Project :
 
 **Digital Guest Book** is a responsive, database-connected web app where guests can leave their name, email, and message. Perfect for small businesses, events, or personal websites that want to keep track of visitors and feedback easily.
 
 ---
 
-## 🚀 Features
+## 🚀 Features :
 
 - 📩 Real-time visitor message submission
 - 📊 Display entries in reverse chronological order
@@ -26,7 +26,7 @@
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack :
 
 - **PHP** (Server-side logic)
 - **MySQL** (Data storage)
