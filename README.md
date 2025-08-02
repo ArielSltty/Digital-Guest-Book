@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://i.imgur.com/2yAfkcZ.gif" width="100%" alt="Digital Guest Book Banner"/>
   <h1>📘 Digital Guest Book</h1>
   <p>A modern PHP-based guestbook application for capturing visitor messages dynamically.</p>
   <p>
