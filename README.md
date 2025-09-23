@@ -32,4 +32,3 @@
 - **MySQL** (Data storage)
 - **Bootstrap 5** (UI Framework)
 - **HTML5 & CSS3**
-
