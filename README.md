@@ -34,4 +34,4 @@
 - **HTML5 & CSS3**
 
 ## Contributors
-Special Thanks to lolo(pancuri5) and egner(uif) to build this awesome project.
+Special Thanks to Alencess and egner(uif) to build this awesome project.
