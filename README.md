@@ -32,6 +32,3 @@
 - **MySQL** (Data storage)
 - **Bootstrap 5** (UI Framework)
 - **HTML5 & CSS3**
-
-## Contributors
-Special Thanks to Alen, Chitra, Angelia <3 to build this cool project
