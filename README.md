@@ -5,7 +5,7 @@
     <a href="https://github.com/ArielSltty/Digital-Guest-Book/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/ArielSltty/Digital-Guest-Book?style=flat-square"></a>
     <a href="https://github.com/ArielSltty/Digital-Guest-Book/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/ArielSltty/Digital-Guest-Book?style=flat-square"></a>
     <a href="https://github.com/ArielSltty/Digital-Guest-Book/issues"><img alt="Issues" src="https://img.shields.io/github/issues/ArielSltty/Digital-Guest-Book?style=flat-square"></a>
-    <a href="https://github.com/ArielSltty"><img alt="Author" src="https://img.shields.io/badge/Made%20by-Ariel, Chitra, Angelia, Marlen-blue?style=flat-square"></a>
+    <a href="https://github.com/ArielSltty"><img alt="Author" src="https://img.shields.io/badge/Made%20by-egner-blue?style=flat-square"></a>
   </p>
 </div>
 
